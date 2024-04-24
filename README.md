@@ -3,7 +3,7 @@
 
 
 
-<p align="center">
+<p align="center>
   <a href="http://jrohit.com.np" target="_blank">
         <img alt="http://readme-typing-svg.demolab.com" width="150" src="https://github.com/getintorj/getintorj/blob/master/2.png?raw=true">
     </a>
